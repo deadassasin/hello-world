@@ -1,2 +1,4 @@
 # hello-world
 just another repository
+Hello
+My name is Wiktor and I love music. It has been a part of my life since forever. My favourite instrument is guitar and I have been playing since elementary school. Sadly but not practicing it daily. I'm more into rock, jazz, acid jazz, trip-hop, ambient, prog, metalcore, krock and kpop as talking about my beloved music genres. Right about coding. Well, I'm just a freshman trying the things that seems interesting to me. I have always liked to solve the puzzles. When a friend of mine told me about programing I was like "Meh sorry bro but I'm not interested in math that much", then he said that this is not as much about the math but more like finding solutions for the problems that are need to be solved. Just like in the puzzles that makes me feel good. That's the reason why I am here. At the moment I'm learning Java and hoping that it will be not an end of my jurney.  
